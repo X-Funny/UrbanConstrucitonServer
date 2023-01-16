@@ -1,0 +1,7 @@
+#Mon Dec 19 15:42:43 CST 2022
+Brightness=0.7
+Bloom=false
+emissive_R=1.6
+emissive_B=1.0
+Contrast=1.7
+emissive_G=1.7
