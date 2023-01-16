@@ -1,8 +1,0 @@
-{
-  "shaderCompatMode": false,
-  "enableRail3D": true,
-  "enableRailRender": true,
-  "enableTrainRender": true,
-  "enableSmoke": true,
-  "hideRidingTrain": false
-}
