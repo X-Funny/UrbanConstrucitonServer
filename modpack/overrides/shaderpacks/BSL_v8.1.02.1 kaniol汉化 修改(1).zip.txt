@@ -1,4 +1,0 @@
-#Mon Jan 02 13:48:17 CST 2023
-sunPathRotation=-25.0
-BLOOM=false
-DYNAMIC_HANDLIGHT=true
