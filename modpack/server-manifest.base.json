@@ -1,0 +1,20 @@
+{
+  "name": "NetLand",
+  "author": "SunRt233,X-Funny",
+  "version": "0.5",
+  "description": "",
+  "fileApi": "https://www.sunrt233.top/netland/modpack/",
+  "files": [
+
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.18.2"
+    },
+    {
+      "id": "fabric",
+      "version": "0.14.12"
+    }
+  ]
+}

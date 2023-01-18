@@ -1,0 +1,20 @@
+{
+  "name": "netlandupdatesite",
+  "version": "1.0.0",
+  "description": "一个快速生成整合包server-manifest.json文件的cli工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunRt233/NetLandUpdateSite.git"
+  },
+  "author": "SunRt233",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SunRt233/NetLandUpdateSite/issues"
+  },
+  "homepage": "https://github.com/SunRt233/NetLandUpdateSite#readme"
+}
