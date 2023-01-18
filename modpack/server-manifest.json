@@ -3,7 +3,7 @@
   "author": "xfunny",
   "version": "1.0",
   "description": "",
-  "fileApi": "http://mc.xfunny.top:46609/modpack",
+  "fileApi": "http://112.124.52.20:16400/modpack",
   "files": [
     {
       "path": "mods/blockus-2.5.6+1.19.2.jar",
