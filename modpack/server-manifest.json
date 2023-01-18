@@ -3,7 +3,7 @@
   "author": "xfunny",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://gitee.com/x-funny/UrbanConstrucitonServer/raw/main/Client4UrbanConstruction.zip",
+  "fileApi": "https://gitee.com/x-funny/UrbanConstrucitonServer/raw/main/modpack",
   "files": [
     {
       "path": "mods/blockus-2.5.6+1.19.2.jar",
@@ -348,19 +348,7 @@
     {
       "path": "shaderpacks/SEUS_PTGI_HRR_Test_2.1.zip",
       "hash": "f7b00feee0cc21c3207d21bf0b9ad01af0e0ee22"
-    },
-    {
-      "path": "shaderpacks/shaderpacks.7z",
-      "hash": "0cd3e1d001bc40b931eb1e18272c8e457fcf0461"
-    },
-    {
-      "path": "shaderpacks/shaderpacks.zip",
-      "hash": "6c4de0eabb8e2172da1136c93604c50e7e6cb803"
-    },
-    {
-      "path": "shaderpacks/shaders.zip",
-      "hash": "bda9b17cd8b5374bbae3cc0a8e6e9eff70c9baf8"
-    },
+    }, 
     {
       "path": "shaderpacks/Sildur\u0027s+Enhanced+Default+v1.14+Fancy.zip",
       "hash": "4355c5c7a46a5b52449cd0138cbb986f8d9516c5"
